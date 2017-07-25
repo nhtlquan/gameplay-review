@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017512214063",
+    "firebase_url": "https://kids-funny-2c85c.firebaseio.com",
+    "project_id": "kids-funny-2c85c",
+    "storage_bucket": "kids-funny-2c85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017512214063:android:cc76f1651045d574",
+        "android_client_info": {
+          "package_name": "vn.lequan.gameplayreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017512214063-p93fl7uj0v7gjvmbd764nm1pc4f4i2va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADk8X3nx1Lh0Y7BAf72-Kpm3QrEdPm_vI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
